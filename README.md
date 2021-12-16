@@ -12,6 +12,8 @@ Network Architecture:
 
 <img src = "https://github.com/Crazylov3/ControlGAN/blob/main/image/clasi.png" width = "350"> <img src = "https://github.com/Crazylov3/ControlGAN/blob/main/image/dis.png" width = "350"> <img src = "https://github.com/Crazylov3/ControlGAN/blob/main/image/gen.png" width = "350">
 
+**I used WPAN-GP loss to stabilize training phase**
+
 ***Due to the limiting of computation power, I only trained it for 60k iteration. So the result shown below is not the final result.*** If you want to generate more realistic images, you can use
 the bigger model depending on what hardware you have. You also can use ProGan backbone to have fun with this classifier. 
 
