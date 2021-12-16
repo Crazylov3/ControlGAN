@@ -29,3 +29,7 @@ Female:
 
 *We used binary(0, 1) vector for representing the label. In this task we just multiply the label vector by x1, x2, x3. As you can see, the model works quite well one strange label (zero-shot learning).
 ControlGAN has shown its outstanding strength compared to CGAN. Now we can change the label of the generated image more easily!*
+
+❌If you want to have pretrained-weight model,  drop me an email (giangletruong2444@gmail.com)
+
+❗ This project is inspired by [this paper](https://ieeexplore.ieee.org/document/8641270)
